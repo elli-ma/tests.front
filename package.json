@@ -1,0 +1,16 @@
+{
+    "name": "tests.front",
+    "version": "1.0.0",
+    "description": "",
+    "main": "lib.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "-": "^0.0.1",
+        "D": "^1.0.0",
+        "mocha": "^10.0.0"
+    }
+}

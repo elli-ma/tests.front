@@ -2,6 +2,7 @@
 Задача
 
 ## Установка / Installation
-bash
+```bash
 npm install
 npm test
+```
